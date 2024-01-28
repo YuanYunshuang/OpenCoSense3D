@@ -6,6 +6,7 @@ The code will be open upon the publicaion of the paper.
   <source src="imgs/demo720.mp4" type="video/mp4">
 </video>
 
+![](imgs/demo720.mp4)
 ![](imgs/glviewer.png)
 ![](imgs/imgviewer.png)
 ![](imgs/imganno2dviewer.png)
